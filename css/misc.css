@@ -1,0 +1,63 @@
+[cursor-pointer] {
+    cursor: pointer;
+}
+  
+[cursor-default] {
+    cursor: default;
+}
+
+[cursor-not-allowed] {
+    cursor: not-allowed;
+}
+  
+[cursor-help] {
+    cursor: help;
+}
+
+[border-radius] {
+    border-radius: var(--border-radius);
+}
+  
+[border-width] {
+    border-width: var(--border-width);
+}
+  
+[border-solid] {
+    border-style: solid;
+}
+  
+[border-dashed] {
+    border-style: dashed;
+}
+  
+[border-dotted] {
+    border-style: dotted;
+}
+  
+[border-double] {
+    border-style: double;
+}
+  
+[border-none] {
+    border-style: none;
+}
+  
+[border] {
+    border: var(--border-width) var(--border-style) var(--border-color);
+}
+
+[uppercase] {
+    text-transform: uppercase;
+}
+  
+[lowercase] {
+    text-transform: lowercase;
+}
+  
+[capitalize] {
+    text-transform: capitalize;
+}
+  
+[transition] {
+    transition: all var(--transition-duration) linear;
+}

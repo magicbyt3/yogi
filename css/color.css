@@ -1,0 +1,31 @@
+[accent-color] {
+    color: var(--accent-color);
+}
+  
+[main-color] {
+    color: var(--main-color);
+}
+  
+[text-color] {
+    color: var(--text-color);
+}
+  
+[hover-bg]:hover {
+    background: var(--hover-bg)
+}
+  
+[hover-color]:hover {
+    color: var(--hover-color);
+}
+
+[accent-bg] {
+    background: var(--accent-color);
+}
+
+[main-bg] {
+    background: var(--main-color);
+}
+
+[border-color] {
+    border-color: var(--border-color);
+}

@@ -1,0 +1,47 @@
+[text-sm] {
+    font-size: var(--text-sm);
+}
+  
+[text-md] {
+    font-size: var(--text-md);
+}
+  
+[text-lg] {
+    font-size: var(--text-lg);
+}
+  
+[text-xl] {
+    font-size: var(--text-xl);
+}
+
+[text-2xl] {
+    font-size: var(--text-2xl);
+}
+
+[text-3xl] {
+    font-size: var(--text-3xl);
+}
+
+[width20] {
+    width: 20%;
+}
+
+[width33] {
+    width: 33%;
+}
+
+[width50] {
+    width: 50%;
+}
+
+[width66] {
+    width: 66%;
+}
+
+[width80] {
+    width: 66%;
+}
+
+[width100] {
+    width: 100%;
+}

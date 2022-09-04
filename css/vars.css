@@ -1,0 +1,24 @@
+:root {
+  --accent-color: #000014;
+  --main-color: #E4022D;
+  --text-color: #e2e2e2;
+  --border-color: #ffa500;
+  --hover-color: #ffa500;
+  --hover-bg: #0040ff;
+  --border-style: solid;
+  --border-radius: 9px;
+  --border-width: 3px;
+  --text-sm: 1.2rem;
+  --text-md: 1.5rem;
+  --text-lg: 2rem;
+  --text-xl: 2.5rem;
+  --text-2xl: 3rem;
+  --text-3xl: 3.5rem;
+  --margin: 9px;
+  --margin-x: 9px;
+  --margin-y: 9px;
+  --padding: 9px;
+  --padding-x: 9px;
+  --padding-y: 9px;
+  --transition-duration: 0.3s;
+}
